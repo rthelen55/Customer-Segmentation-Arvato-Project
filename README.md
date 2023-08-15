@@ -22,6 +22,8 @@ We use two different methods to determine which demographic group of people are 
 
 The goal of the project was to identify customer's that would most likely be converted into a customer of a mail service company in Germany
 
+View detailed explaination: https://medium.com/@rkmradiokilledmusic/496109424917?postPublishedType=initial
+
 <a id='technicalsummary'></a>
 
 ## 2. Technical summary:
